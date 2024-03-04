@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/kc-workspace/asdf-flux2/compare/v1.2.1...v1.2.2) (2024-03-04)
+
+
+### Performance Improvements
+
+* update plugin from template [autocommit] ([b7588f4](https://github.com/kc-workspace/asdf-flux2/commit/b7588f407a7520dd0a6cba8bca30eca1eb07121d))
+* update plugin from template [autocommit] ([3a8670d](https://github.com/kc-workspace/asdf-flux2/commit/3a8670d8a1b26b218602631cdd8df4756f90d44f))
+
 ## [1.2.1](https://github.com/kc-workspace/asdf-flux2/compare/v1.2.0...v1.2.1) (2023-11-06)
 
 
